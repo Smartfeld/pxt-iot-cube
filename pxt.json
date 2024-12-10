@@ -12,14 +12,14 @@
         "port_expander.ts",
         "payload_format.ts",
         "enums_payload.ts",
-        "_locales/de/LoRa-AT-Interface-jsdoc-strings.json",
-        "_locales/de/LoRa-AT-Interface-strings.json"
+        "_locales/de/IoT-Würfel-jsdoc-strings.json",
+        "_locales/de/IoT-Würfel-strings.json"
     ],
     "testFiles": [
         "test.ts"
     ],
     "targetVersions": {
-        "target": "6.0.17",
+        "target": "7.1.15",
         "targetId": "microbit"
     },
     "supportedTargets": [
